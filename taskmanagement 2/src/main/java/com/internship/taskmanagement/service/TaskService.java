@@ -1,5 +1,7 @@
-package com.internship.taskmanagement;
+package com.internship.taskmanagement.service;
 
+import com.internship.taskmanagement.model.Task;
+import com.internship.taskmanagement.repository.TaskRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

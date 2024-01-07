@@ -1,6 +1,7 @@
-package com.internship.taskmanagement;
+package com.internship.taskmanagement.model;
 
 import com.fasterxml.jackson.annotation.JsonManagedReference;
+import com.internship.taskmanagement.model.Task;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;

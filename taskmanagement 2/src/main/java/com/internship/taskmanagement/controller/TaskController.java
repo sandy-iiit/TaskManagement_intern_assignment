@@ -1,6 +1,8 @@
-package com.internship.taskmanagement;
+package com.internship.taskmanagement.controller;
 
 
+import com.internship.taskmanagement.service.TaskService;
+import com.internship.taskmanagement.model.Task;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

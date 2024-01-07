@@ -1,4 +1,4 @@
-package com.internship.taskmanagement;
+package com.internship.taskmanagement.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
